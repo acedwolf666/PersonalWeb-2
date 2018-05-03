@@ -96,7 +96,7 @@ header {
 
 /*---------------------------section home---------------------------*/
 .home_bg{
-  background-image: url(http://via.placeholder.com/960x514);
+  background-image: url(../image/nature.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -281,7 +281,7 @@ h3.resume-subtitle {
 }
 /*---------------------------section quote---------------------------*/
 .quote {
-  background-image: url(http://via.placeholder.com/1920x453);
+  background-image: url(../image/sunset.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
